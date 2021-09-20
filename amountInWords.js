@@ -26,4 +26,4 @@ function getAmountInWords(amount) {
     return finalWords.toUpperCase();
 }
 
-console.log(getAmountInWords(1234.56)); // ONE THOUSAND TWO HUNDRED THIRTY FOUR RUPEES AND FIFTY SIX PAISA
+console.log(getAmountInWords(1234.56)); // ONE THOUSAND TWO HUNDRED THIRTY FOUR RUPEES AND FIFTY SIX PAISA ONLY
